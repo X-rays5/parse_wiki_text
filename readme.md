@@ -4,6 +4,10 @@ This is free software distributed under the terms specified in
 the file LICENSE at the top-level directory of this distribution.
 -->
 
+# This is a reupload of the rust crate parse_wiki_text
+#### Since the original git repo doesn't exist anymore this. Is a copy of the last version that was released
+
+
 # Parse Wiki Text
 
 Parse wiki text from Mediawiki into a tree of elements.
